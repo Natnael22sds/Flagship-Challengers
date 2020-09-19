@@ -6,10 +6,11 @@
 	--bright-color-1: #1da2d8;
 	--bright-color-2: #76b6c4;
 	--bright-color-3: #7fcdff;
+	--silver-color: #b4a797;
 }
 
 body {
-	background: var(--darkest-color);
+	background: var(--silver-color);
 	color: var(--lightest-color);
 	font-family: 'Roboto', sans-serif;
 }
